@@ -555,7 +555,7 @@ footer p{
     }
   }
   /* Media queries for destinations section */
-/* @media screen and (max-width: 768px) {
+ @media screen and (max-width: 768px) {
     .destinations {
       font-size: 2rem; 
       margin: 30px; 
@@ -586,7 +586,7 @@ footer p{
   }
   
   /* Media queries for about us section */
-  /* @media screen and (max-width: 600px) {
+   @media screen and (max-width: 600px) {
     .about {
       padding: 50px 20px; 
     }
@@ -608,5 +608,5 @@ footer p{
     .form button {
       padding: 10px 20px; 
     }
-  } */ 
+  } 
   
